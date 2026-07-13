@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: krutish18/eks:appimage
+          image: krutish18/ekc:appimage
           ports:
             - containerPort: 80
 
