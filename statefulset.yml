@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: dbcont
-          image: krutish18/eks:dbimage
+          image: krutish18/ekc:dbimage
 
           ports:
             - containerPort: 3306
